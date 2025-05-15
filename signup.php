@@ -12,7 +12,7 @@ session_start()
 </head>
 <body>
     <div style="justify-items: center;">
-                         <h2>Sign UP</h2>
+                         <h2 style="color: blue;">Sign UP</h2>
 
               <form action="signup view.php" method="post">
                    Username <br> <input type="text" name="username" id=""><br><br>

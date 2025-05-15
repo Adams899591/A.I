@@ -12,7 +12,7 @@
 <body>
       <div style="justify-items: center;">
         <!-- for log in -->
-                    <h2>login</h2>
+                    <h2 style="color: red;">login</h2>
             <form action="login view.php" method="post">
                    Username <br> <input type="text" name="username" id=""><br><br>
                    <!-- Email <br> <input type="text" name="email" id=""><br><br> -->

@@ -14,7 +14,12 @@
     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.
          Reprehenderit amet dolores ut voluptatibus expedita ipsam
           voluptatem adipisci deserunt similique non? Doloribus null
-          a eos, qui molestias aliquam aliquid voluptatum debitis natus.</p>
+          a eos, qui molestias aliquam aliquid voluptatum debitis natus.</p> <br><br>
+
+
+          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima, assumenda eaque, 
+          quos temporibus possimus consequatur vitae consectetur in qua
+          e quidem ipsa sapiente voluptate ullam alias obcaecati harum praesentium? Officiis, quibusdam!
 
           <a href="home2.php">go back to home page 2</a> <br><br>
      <a href="login.php">Log out</a> 
